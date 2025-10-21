@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>todo.study</groupId>
-	<artifactId>kubernetes</artifactId>
+	<artifactId>kubernetes-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>kubernetes</name>
 	<description>Demo Project for Kubernetes</description>
